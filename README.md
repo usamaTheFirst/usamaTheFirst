@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer<br>Currently Working on Blazor Applications in .Net<br>Learning Angular and DevOps
+Software Engineer<br>Working on ASP.NET Core Applications<br>Learning Angular and DevOps.
 
 
 # 💻 Tech Stack:
